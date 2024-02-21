@@ -1,7 +1,12 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Decorators Tutorial @ SF Python
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Exercises for exploring and implementing useful decorator patterns in Python in Github Codespaces!
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Resources
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+* This is a modern update on a classic SF Python Tutorial originally run by @simeonf
+* My talk on decorators [here](https://www.youtube.com/watch?v=j3b8V7ZRyFo)
+* A basic ["what is a decorator?" blog post](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/) 
+* A more recent and thorough [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+* A list of [cool Python Decorators](https://github.com/lord63/awesome-python-decorator)
+* Brought to you by [BAPyA](https://bapya.org/donate)
